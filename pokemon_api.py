@@ -17,20 +17,27 @@ def fetch_random_pokemon() -> Dict[str, Any]:
     species_response = requests.get(species_url)
     species_data = species_response.json()
     
-    for genus in species_data["genera"]:
-        if genus["language"]["name"] == "zh-Hant":
-            species_name = genus["genus"]
+    # 1. Fetch Traditional Chinese name (zh-Hant)
+    zh_name = pokemon_data["name"]  # Fallback
+    for entry in species_data.get("names", []):
+        if entry.get("language", {}).get("name") == "zh-Hant":
+            zh_name = entry.get("name")
             break
-    else:
-        species_name = species_data["name"]
+
+    # 2. Fetch Traditional Chinese genus (zh-Hant)
+    zh_species_name = pokemon_data["name"]  # Fallback
+    for genus in species_data.get("genera", []):
+        if genus.get("language", {}).get("name") == "zh-Hant":
+            zh_species_name = genus.get("genus")
+            break
    
     return {
         "id": str(pokemon_data["id"]).zfill(4),
-        "name": zh_name,  # Removed .title() so Traditional Chinese text stays intact
+        "name": zh_name,  # Traditional Chinese name
         "types": ", ".join(type.title() for type in types),
-        "species": zh_species_name,
-        "height": f"{pokemon_data['height'] / 10} m",
-        "weight": f"{pokemon_data['weight'] / 10} kg",
+        "species": zh_species_name,  # Traditional Chinese genus
+        "height": f"{pokemon_data['height'] / 10} m",  # Convert to meters
+        "weight": f"{pokemon_data['weight'] / 10} kg",  # Convert to kilograms
         "abilities": ", ".join(ability.title() for ability in abilities),
         "artwork": pokemon_data["sprites"]["other"]["official-artwork"]["front_default"]
     }
