@@ -64,7 +64,7 @@ def test_fetch_random_pokemon_no_traditional_chinese_genus(mock_pokemon_response
     with patch('requests.get') as mock_get:
         mock_get.side_effect = [
             Mock(json=lambda: mock_pokemon_response),
-            Mock(json=lambda: mock_species_response_no_zh)
+            Mock(json=lambda: species_response_no_zh)
         ]
 
         result = fetch_random_pokemon()
@@ -89,6 +89,5 @@ def test_fetch_random_pokemon_calls_correct_endpoints(mock_pokemon_response, moc
 def test_fetch_random_pokemon_api_error():
     with patch('requests.get') as mock_get:
         mock_get.return_value.raise_for_status.side_effect = Exception("API Error")
-        # Just ensuring it attempts request
         with pytest.raises(Exception):
             mock_get.return_value.raise_for_status()
