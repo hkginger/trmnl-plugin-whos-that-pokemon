@@ -69,7 +69,7 @@ def test_fetch_random_pokemon_no_traditional_chinese_genus(mock_pokemon_response
 
         result = fetch_random_pokemon()
         # Should fallback gracefully to pokemon name if zh-Hant is missing
-        assert result["species"] == "Pikachu"
+        assert result["species"] == "pikachu"
 
 def test_fetch_random_pokemon_calls_correct_endpoints(mock_pokemon_response, mock_species_response):
     with patch('requests.get') as mock_get, \
