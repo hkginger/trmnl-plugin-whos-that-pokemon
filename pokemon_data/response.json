@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T14:56:12.366074",
+  "timestamp": "2026-09-06T08:40:28.924307",
   "pokemon_data": {
-    "id": "0317",
-    "name": "Swalot",
-    "types": "Poison",
-    "species": "Poison Bag Pok\u00e9mon",
-    "height": "1.7 m",
-    "weight": "80.0 kg",
-    "abilities": "Liquid-Ooze, Sticky-Hold, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png"
+    "id": "0031",
+    "name": "nidoqueen",
+    "types": "Poison, Ground",
+    "species": "nidoqueen",
+    "height": "1.3 m",
+    "weight": "60.0 kg",
+    "abilities": "Poison-Point, Rivalry, Sheer-Force",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
   }
 }
