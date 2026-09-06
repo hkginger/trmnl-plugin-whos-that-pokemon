@@ -2,7 +2,7 @@ import random
 import requests
 from typing import Dict, Any
 
-__MAX_POKEMON_ID = 1025
+__MAX_POKEMON_ID = 151
 
 def fetch_random_pokemon() -> Dict[str, Any]:
     """Fetch random Pokemon data from PokeAPI."""
@@ -18,7 +18,7 @@ def fetch_random_pokemon() -> Dict[str, Any]:
     species_data = species_response.json()
     
     for genus in species_data["genera"]:
-        if genus["language"]["name"] == "en":
+        if genus["language"]["name"] == "zh-Hant":
             species_name = genus["genus"]
             break
     else:
