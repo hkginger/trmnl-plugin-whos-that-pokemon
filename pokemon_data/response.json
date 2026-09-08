@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-07T17:18:40.936545",
+  "timestamp": "2026-09-08T16:03:02.822372",
   "pokemon_data": {
-    "id": "0089",
-    "name": "muk",
-    "types": "Poison",
-    "species": "muk",
-    "height": "1.2 m",
-    "weight": "30.0 kg",
-    "abilities": "Stench, Sticky-Hold, Poison-Touch",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png"
+    "id": "0054",
+    "name": "psyduck",
+    "types": "Water",
+    "species": "psyduck",
+    "height": "0.8 m",
+    "weight": "19.6 kg",
+    "abilities": "Damp, Cloud-Nine, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
   }
 }
