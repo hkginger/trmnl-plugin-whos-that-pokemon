@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-08T16:03:02.822372",
+  "timestamp": "2026-09-09T15:58:37.013337",
   "pokemon_data": {
-    "id": "0054",
-    "name": "psyduck",
-    "types": "Water",
-    "species": "psyduck",
-    "height": "0.8 m",
-    "weight": "19.6 kg",
-    "abilities": "Damp, Cloud-Nine, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+    "id": "0096",
+    "name": "drowzee",
+    "types": "Psychic",
+    "species": "drowzee",
+    "height": "1.0 m",
+    "weight": "32.4 kg",
+    "abilities": "Insomnia, Forewarn, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
   }
 }
