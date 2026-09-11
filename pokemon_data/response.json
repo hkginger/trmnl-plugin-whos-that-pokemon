@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-10T15:53:25.948862",
+  "timestamp": "2026-09-11T15:55:29.275348",
   "pokemon_data": {
-    "id": "0071",
-    "name": "victreebel",
-    "types": "Grass, Poison",
-    "species": "victreebel",
-    "height": "1.7 m",
-    "weight": "15.5 kg",
-    "abilities": "Chlorophyll, Gluttony",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+    "id": "0057",
+    "name": "primeape",
+    "types": "Fighting",
+    "species": "primeape",
+    "height": "1.0 m",
+    "weight": "32.0 kg",
+    "abilities": "Vital-Spirit, Anger-Point, Defiant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
   }
 }
