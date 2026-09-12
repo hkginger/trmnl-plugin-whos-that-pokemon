@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T15:55:29.275348",
+  "timestamp": "2026-09-12T15:02:42.441470",
   "pokemon_data": {
-    "id": "0057",
-    "name": "primeape",
-    "types": "Fighting",
-    "species": "primeape",
-    "height": "1.0 m",
-    "weight": "32.0 kg",
-    "abilities": "Vital-Spirit, Anger-Point, Defiant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+    "id": "0145",
+    "name": "zapdos",
+    "types": "Electric, Flying",
+    "species": "zapdos",
+    "height": "1.6 m",
+    "weight": "52.6 kg",
+    "abilities": "Pressure, Static",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
   }
 }
