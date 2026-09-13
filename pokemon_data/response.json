@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-12T15:02:42.441470",
+  "timestamp": "2026-09-13T15:40:38.790700",
   "pokemon_data": {
-    "id": "0145",
-    "name": "zapdos",
-    "types": "Electric, Flying",
-    "species": "zapdos",
-    "height": "1.6 m",
-    "weight": "52.6 kg",
-    "abilities": "Pressure, Static",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+    "id": "0013",
+    "name": "weedle",
+    "types": "Bug, Poison",
+    "species": "weedle",
+    "height": "0.3 m",
+    "weight": "3.2 kg",
+    "abilities": "Shield-Dust, Run-Away",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
   }
 }
