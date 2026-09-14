@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-13T15:40:38.790700",
+  "timestamp": "2026-09-14T17:46:15.077721",
   "pokemon_data": {
-    "id": "0013",
-    "name": "weedle",
-    "types": "Bug, Poison",
-    "species": "weedle",
-    "height": "0.3 m",
-    "weight": "3.2 kg",
-    "abilities": "Shield-Dust, Run-Away",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+    "id": "0066",
+    "name": "machop",
+    "types": "Fighting",
+    "species": "machop",
+    "height": "0.8 m",
+    "weight": "19.5 kg",
+    "abilities": "Guts, No-Guard, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
   }
 }
