@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T16:12:44.548877",
+  "timestamp": "2026-09-17T16:18:43.922364",
   "pokemon_data": {
-    "id": "0085",
-    "name": "dodrio",
-    "types": "Normal, Flying",
-    "species": "dodrio",
-    "height": "1.8 m",
-    "weight": "85.2 kg",
-    "abilities": "Run-Away, Early-Bird, Tangled-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+    "id": "0149",
+    "name": "dragonite",
+    "types": "Dragon, Flying",
+    "species": "dragonite",
+    "height": "2.2 m",
+    "weight": "210.0 kg",
+    "abilities": "Inner-Focus, Multiscale",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
   }
 }
