@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-18T15:54:35.609777",
+  "timestamp": "2026-09-19T15:25:21.612536",
   "pokemon_data": {
-    "id": "0095",
-    "name": "onix",
-    "types": "Rock, Ground",
-    "species": "onix",
-    "height": "8.8 m",
-    "weight": "210.0 kg",
-    "abilities": "Rock-Head, Sturdy, Weak-Armor",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+    "id": "0063",
+    "name": "abra",
+    "types": "Psychic",
+    "species": "abra",
+    "height": "0.9 m",
+    "weight": "19.5 kg",
+    "abilities": "Synchronize, Inner-Focus, Magic-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png"
   }
 }
