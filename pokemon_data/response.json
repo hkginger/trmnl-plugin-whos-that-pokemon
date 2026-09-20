@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-19T15:25:21.612536",
+  "timestamp": "2026-09-20T15:30:40.011325",
   "pokemon_data": {
-    "id": "0063",
-    "name": "abra",
-    "types": "Psychic",
-    "species": "abra",
-    "height": "0.9 m",
-    "weight": "19.5 kg",
-    "abilities": "Synchronize, Inner-Focus, Magic-Guard",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png"
+    "id": "0123",
+    "name": "scyther",
+    "types": "Bug, Flying",
+    "species": "scyther",
+    "height": "1.5 m",
+    "weight": "56.0 kg",
+    "abilities": "Swarm, Technician, Steadfast",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
   }
 }
