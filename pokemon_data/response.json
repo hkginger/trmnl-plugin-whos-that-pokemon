@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T15:30:40.011325",
+  "timestamp": "2026-09-21T17:54:12.762443",
   "pokemon_data": {
-    "id": "0123",
-    "name": "scyther",
-    "types": "Bug, Flying",
-    "species": "scyther",
-    "height": "1.5 m",
-    "weight": "56.0 kg",
-    "abilities": "Swarm, Technician, Steadfast",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+    "id": "0047",
+    "name": "parasect",
+    "types": "Bug, Grass",
+    "species": "parasect",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "abilities": "Effect-Spore, Dry-Skin, Damp",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
   }
 }
