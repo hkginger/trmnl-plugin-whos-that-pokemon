@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T17:54:12.762443",
+  "timestamp": "2026-09-22T16:20:57.790526",
   "pokemon_data": {
-    "id": "0047",
-    "name": "parasect",
-    "types": "Bug, Grass",
-    "species": "parasect",
-    "height": "1.0 m",
-    "weight": "29.5 kg",
-    "abilities": "Effect-Spore, Dry-Skin, Damp",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+    "id": "0005",
+    "name": "charmeleon",
+    "types": "Fire",
+    "species": "charmeleon",
+    "height": "1.1 m",
+    "weight": "19.0 kg",
+    "abilities": "Blaze, Solar-Power",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
   }
 }
