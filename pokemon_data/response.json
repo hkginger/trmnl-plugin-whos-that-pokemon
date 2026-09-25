@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T16:33:55.242729",
+  "timestamp": "2026-09-25T16:38:04.886793",
   "pokemon_data": {
-    "id": "0106",
-    "name": "hitmonlee",
-    "types": "Fighting",
-    "species": "hitmonlee",
-    "height": "1.5 m",
-    "weight": "49.8 kg",
-    "abilities": "Limber, Reckless, Unburden",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+    "id": "0030",
+    "name": "nidorina",
+    "types": "Poison",
+    "species": "nidorina",
+    "height": "0.8 m",
+    "weight": "20.0 kg",
+    "abilities": "Poison-Point, Rivalry, Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png"
   }
 }
