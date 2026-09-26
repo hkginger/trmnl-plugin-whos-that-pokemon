@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T16:38:04.886793",
+  "timestamp": "2026-09-26T15:51:42.280332",
   "pokemon_data": {
-    "id": "0030",
-    "name": "nidorina",
-    "types": "Poison",
-    "species": "nidorina",
-    "height": "0.8 m",
-    "weight": "20.0 kg",
-    "abilities": "Poison-Point, Rivalry, Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png"
+    "id": "0150",
+    "name": "mewtwo",
+    "types": "Psychic",
+    "species": "mewtwo",
+    "height": "2.0 m",
+    "weight": "122.0 kg",
+    "abilities": "Pressure, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
   }
 }
